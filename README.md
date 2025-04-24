@@ -1,2 +1,2 @@
 # email-spam-model
-Dis model detects spam in emails.
+This model detects spam in emails.
